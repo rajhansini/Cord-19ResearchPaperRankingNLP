@@ -19,9 +19,9 @@ The dataset of research papers and more information about the dataset is availab
 7. Text Summarisation
 
 ## Team
-1. Raj S. Jagtap
-2. Raj Hansini Khoiwal
+1. Raj Hansini Khoiwal
+2. Pulaksh Garg
 3. Rajat Kumar Singh
 4. Rahul Baviskar
 5. Kalyani Goyal
-6. Pulaksh Garg
+6. Raj S. Jagtap
